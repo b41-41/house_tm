@@ -21,5 +21,8 @@
   "homepage": "https://github.com/b41-41/house_tm#readme",
   "dependencies": {
     "node-sass": "^7.0.1"
+  },
+  "devDependencies": {
+    "sass-lint": "^1.13.1"
   }
 }
